@@ -1,4 +1,4 @@
-# Actionable Feedback Analyzer | Explainable AI, LLMs, Python, PyTorch
+# Actionable Feedback Analyzer
 
 ## Project Overview
 The **Actionable Feedback Analyzer** is a scalable AI system designed to analyze customer feedback using Large Language Models (LLMs) while ensuring model transparency through explainability techniques. This project leverages pre-trained BERT models to classify sentiments from customer reviews and provides interpretable insights.
@@ -14,5 +14,5 @@ The dataset used in this project is the **Amazon Product Reviews Dataset**, whic
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ActionableFeedbackAnalyzer.git
-   cd ActionableFeedbackAnalyzer
+   git clone https://github.com/singhadwika/Actionable-Feedback-Analyzer.git
+   cd Actionable-Feedback-Analyzer
